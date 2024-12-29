@@ -1,0 +1,215 @@
+body {
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: lime;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+    border: outset;
+    border-color: blueviolet;
+}
+
+h1:hover {
+    color: blue;
+}
+
+marquee {
+    color: red;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    border: outset;
+    border-color: red;
+}
+
+span {
+    color: red;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 15px;
+}
+
+li {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+ol {
+    border: outset;
+    border-left: 12px;
+    color: #FFD700;
+    display: inline-block;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+
+iframe {
+    border: outset;
+    border-color: #FFD700;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative;
+    top: -650px;
+    color: #FFD700;
+    height: auto;
+    max-height: 500px;
+}
+
+.my-interests {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    animation: myAnimation 5s infinite;
+    border-color: #FFD700;
+    text-decoration: wavy;
+    margin-top:-600px;
+}
+
+@media (max-width: 768px) {
+    .my-interests {
+        margin-top: 0;
+        margin-left: 20px;
+    }
+}
+
+
+h2 {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #FFD700;
+    text-decoration: wavy;
+}
+iframe {
+    border: outset;
+    border-color: #FFD700;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    position: relative;
+    top: 70px;
+    color: #FFD700;
+    height: auto;
+    max-height: 500px;
+}
+marquee {
+    color: red;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    border: outset;
+    border-color: red;
+    position: relative;
+    top: 70px;
+}
+
+.contact-me {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #FFD700;
+    text-decoration: wavy;
+margin-top: 70px;
+}
+li {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+github-profile-badge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    position: relative;
+    top: 70px;
+    color: #FFD700;
+    height: auto;
+    max-height: 500px;
+}
+.contact-me {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: #FFD700;
+    text-decoration: wavy;
+    margin-top: 70px;
+}
+li {
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+ul {
+    border: outset;
+    border-left: 12px;
+    color: #FFD700;
+    display: inline-block;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+ul {
+    border: outset;
+    border-left: 12px;
+    color: #FFD700;
+    display: inline-block;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+li2
+{
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+}
+p4
+{
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+    position: relative;
+    top: 100px;
+}
+p5
+{
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+    position: relative;
+    top: 100px;
+}
+p6
+{
+    color: #FFD700;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 16px;
+    position: relative;
+    top: 100px;
+}
